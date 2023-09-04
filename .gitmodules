@@ -13,3 +13,6 @@
 [submodule "src/slamtec_joy_control"]
 	path = src/slamtec_joy_control
 	url = https://github.com/deyouslamtec/slamtec_joy_control.git
+[submodule "src/slamtec_multi"]
+	path = src/slamtec_multi
+	url = https://github.com/deyouslamtec/slamtec_multi.git
