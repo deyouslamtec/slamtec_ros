@@ -22,3 +22,6 @@
 [submodule "src/slamtec_yolo_action"]
 	path = src/slamtec_yolo_action
 	url = https://github.com/deyouslamtec/slamtec_yolo_action.git
+[submodule "src/turn_on_slamtec_robot"]
+	path = src/turn_on_slamtec_robot
+	url = https://github.com/deyouslamtec/turn_on_slamtec_robot.git
