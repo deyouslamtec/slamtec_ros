@@ -19,3 +19,6 @@
 [submodule "src/slamtec_robot_rc"]
 	path = src/slamtec_robot_rc
 	url = https://github.com/deyouslamtec/slamtec_robot_rc.git
+[submodule "src/slamtec_yolo_action"]
+	path = src/slamtec_yolo_action
+	url = https://github.com/deyouslamtec/slamtec_yolo_action.git
