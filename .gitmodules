@@ -16,3 +16,6 @@
 [submodule "src/slamtec_multi"]
 	path = src/slamtec_multi
 	url = https://github.com/deyouslamtec/slamtec_multi.git
+[submodule "src/slamtec_robot_rc"]
+	path = src/slamtec_robot_rc
+	url = https://github.com/deyouslamtec/slamtec_robot_rc.git
