@@ -10,3 +10,6 @@
 [submodule "src/rrt_exploration"]
 	path = src/rrt_exploration
 	url = https://github.com/hasauino/rrt_exploration.git
+[submodule "src/slamtec_joy_control"]
+	path = src/slamtec_joy_control
+	url = https://github.com/deyouslamtec/slamtec_joy_control.git
