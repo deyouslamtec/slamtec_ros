@@ -7,3 +7,6 @@
 [submodule "src/ros_aiva_camera"]
 	path = src/ros_aiva_camera
 	url = https://github.com/deyouslamtec/ros_aiva_camera
+[submodule "src/rrt_exploration"]
+	path = src/rrt_exploration
+	url = https://github.com/hasauino/rrt_exploration.git
