@@ -25,3 +25,6 @@
 [submodule "src/turn_on_slamtec_robot"]
 	path = src/turn_on_slamtec_robot
 	url = https://github.com/deyouslamtec/turn_on_slamtec_robot.git
+[submodule "src/xf_mic_asr_offline"]
+	path = src/xf_mic_asr_offline
+	url = https://github.com/yanjingang/xf_mic_asr_offline.git
