@@ -28,3 +28,6 @@
 [submodule "src/xf_mic_asr_offline"]
 	path = src/xf_mic_asr_offline
 	url = https://github.com/yanjingang/xf_mic_asr_offline.git
+[submodule "src/world_canvas_msgs"]
+	path = src/world_canvas_msgs
+	url = https://github.com/corot/world_canvas_msgs.git
