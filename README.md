@@ -4,9 +4,7 @@
 
 ```bash
 git clone --recurse-submodules https://github.com/deyouslamtec/slamtec_ros.git
-```
 
-```bash
 cd slamtec_ros
 
 rosdep install -y -r -q --from-paths src --ignore-src --rosdistro noetic
