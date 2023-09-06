@@ -31,3 +31,6 @@
 [submodule "src/world_canvas_msgs"]
 	path = src/world_canvas_msgs
 	url = https://github.com/corot/world_canvas_msgs.git
+[submodule "src/kcf_track"]
+	path = src/kcf_track
+	url = https://github.com/deyouslamtec/kcf_track.git
